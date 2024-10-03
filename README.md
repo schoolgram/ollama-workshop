@@ -1,0 +1,2 @@
+# ollama-workshop
+Ollama worshop
